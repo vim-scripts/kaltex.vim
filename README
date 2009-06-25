@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2690
+
+Same as the kalt.vim colorscheme, except that this one
+uses bold, italics and underlined font styles for syntax
+highlighting.
